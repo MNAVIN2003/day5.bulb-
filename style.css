@@ -1,0 +1,15 @@
+#main{
+    background-color: rgb(128, 128, 128);
+}
+
+#bulb{
+    background-color: rgb(233, 27, 27);
+
+}
+
+#main.hover #bu{
+    animation: changebu 1s 10s;
+    background: lawngreen;
+    background-color: lightcoral;
+    height: 50px;
+}
